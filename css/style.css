@@ -1,0 +1,64 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #aaa;
+}
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+
+.section {
+	padding: 60px; 
+}
+
+.titulo {
+	color: #161b37;
+	font-size: 44px;
+}
+
+h1, h2, h3 {
+	color: #161b37;
+}
+
+#hero {
+	background-color: #fffcf9;
+}
+
+#features {
+	background-color: #FFF;
+}
+
+#find-out {
+	color: #242230;
+	background-color: #ffd2b1;
+	text-align: center;
+}
+
+#footer {
+	color: #FFFFFF;
+	background-color: #161b37;
+}
+
+p {
+	color:#242230;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
